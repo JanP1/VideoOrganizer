@@ -1,0 +1,44 @@
+C:\Users\Admin\Documents\_------STUDIA------\Side Projects\VideoOrganizer\VideoOrganizer\bin\Debug\net8.0-windows\VideoOrganizer.exe
+C:\Users\Admin\Documents\_------STUDIA------\Side Projects\VideoOrganizer\VideoOrganizer\bin\Debug\net8.0-windows\VideoOrganizer.deps.json
+C:\Users\Admin\Documents\_------STUDIA------\Side Projects\VideoOrganizer\VideoOrganizer\bin\Debug\net8.0-windows\VideoOrganizer.runtimeconfig.json
+C:\Users\Admin\Documents\_------STUDIA------\Side Projects\VideoOrganizer\VideoOrganizer\bin\Debug\net8.0-windows\VideoOrganizer.dll
+C:\Users\Admin\Documents\_------STUDIA------\Side Projects\VideoOrganizer\VideoOrganizer\bin\Debug\net8.0-windows\VideoOrganizer.pdb
+C:\Users\Admin\Documents\_------STUDIA------\Side Projects\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Admin\Documents\_------STUDIA------\Side Projects\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Admin\Documents\_------STUDIA------\Side Projects\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\VideoOrganizer_MarkupCompile.cache
+C:\Users\Admin\Documents\_------STUDIA------\Side Projects\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\VideoOrganizer_MarkupCompile.lref
+C:\Users\Admin\Documents\_------STUDIA------\Side Projects\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Admin\Documents\_------STUDIA------\Side Projects\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\VideoOrganizer.g.resources
+C:\Users\Admin\Documents\_------STUDIA------\Side Projects\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\VideoOrganizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\_------STUDIA------\Side Projects\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\VideoOrganizer.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\_------STUDIA------\Side Projects\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\VideoOrganizer.AssemblyInfo.cs
+C:\Users\Admin\Documents\_------STUDIA------\Side Projects\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\VideoOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\_------STUDIA------\Side Projects\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\VideoOrganizer.dll
+C:\Users\Admin\Documents\_------STUDIA------\Side Projects\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\refint\VideoOrganizer.dll
+C:\Users\Admin\Documents\_------STUDIA------\Side Projects\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\VideoOrganizer.pdb
+C:\Users\Admin\Documents\_------STUDIA------\Side Projects\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\VideoOrganizer.genruntimeconfig.cache
+C:\Users\Admin\Documents\_------STUDIA------\Side Projects\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\ref\VideoOrganizer.dll
+C:\Users\Admin\Documents\_------STUDIA------\Side Projects\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\Controls\CustomControl.baml
+C:\Users\Admin\Documents\_------STUDIA------\Side Projects\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\Controls\CustomControl.g.cs
+C:\Users\Admin\Documents\GitHub\VideoOrganizer\VideoOrganizer\VideoOrganizer\bin\Debug\net8.0-windows\VideoOrganizer.exe
+C:\Users\Admin\Documents\GitHub\VideoOrganizer\VideoOrganizer\VideoOrganizer\bin\Debug\net8.0-windows\VideoOrganizer.deps.json
+C:\Users\Admin\Documents\GitHub\VideoOrganizer\VideoOrganizer\VideoOrganizer\bin\Debug\net8.0-windows\VideoOrganizer.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\VideoOrganizer\VideoOrganizer\VideoOrganizer\bin\Debug\net8.0-windows\VideoOrganizer.dll
+C:\Users\Admin\Documents\GitHub\VideoOrganizer\VideoOrganizer\VideoOrganizer\bin\Debug\net8.0-windows\VideoOrganizer.pdb
+C:\Users\Admin\Documents\GitHub\VideoOrganizer\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\Controls\CustomControl.baml
+C:\Users\Admin\Documents\GitHub\VideoOrganizer\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\Controls\CustomControl.g.cs
+C:\Users\Admin\Documents\GitHub\VideoOrganizer\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Admin\Documents\GitHub\VideoOrganizer\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Admin\Documents\GitHub\VideoOrganizer\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\VideoOrganizer_MarkupCompile.cache
+C:\Users\Admin\Documents\GitHub\VideoOrganizer\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\VideoOrganizer_MarkupCompile.lref
+C:\Users\Admin\Documents\GitHub\VideoOrganizer\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Admin\Documents\GitHub\VideoOrganizer\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\VideoOrganizer.g.resources
+C:\Users\Admin\Documents\GitHub\VideoOrganizer\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\VideoOrganizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\VideoOrganizer\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\VideoOrganizer.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\VideoOrganizer\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\VideoOrganizer.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\VideoOrganizer\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\VideoOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\VideoOrganizer\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\VideoOrganizer.dll
+C:\Users\Admin\Documents\GitHub\VideoOrganizer\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\refint\VideoOrganizer.dll
+C:\Users\Admin\Documents\GitHub\VideoOrganizer\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\VideoOrganizer.pdb
+C:\Users\Admin\Documents\GitHub\VideoOrganizer\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\VideoOrganizer.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\VideoOrganizer\VideoOrganizer\VideoOrganizer\obj\Debug\net8.0-windows\ref\VideoOrganizer.dll
